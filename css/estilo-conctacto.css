@@ -52,7 +52,7 @@ iframe {
   background: rgb(255, 254, 254);
   width: 100%;
   max-width: 650px;
-  min-height: 650px;
+  min-height:526px;
   margin: auto;
   padding: 5px 35px;
   margin-top: 5px;
